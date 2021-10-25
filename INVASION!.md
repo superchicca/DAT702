@@ -32,5 +32,7 @@ Even if this interaction is very small and simple, it is very powerful: the user
 
 The user feel immersed in the story also because of the design of the characters, especially Chloe. He can epathise with her at such a level that he is worried for her when the aliens land on Earth. 
 
+**Conclusions**
+
 As I see it, this short movie is an amazing representation of the VR definition as an "Empathy Machine". The plot is very simple and the interaction is at is minimum, but they 
 are both created in an accurate way to maximise immersion and sense of presence through the pontentiality of this medium.
