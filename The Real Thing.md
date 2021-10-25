@@ -8,7 +8,7 @@
 **Production**
 
 - A Benoit Felici film.
-- Producted by: Artiline Films, DVGroup and ARTE France.
+- Produced by: Artiline Films, DVGroup and ARTE France.
 - Directed by: Benoit Felici and Mathias Cheleburg.
 - Release year: 2018.
 - Country: France.
