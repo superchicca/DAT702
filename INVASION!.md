@@ -1,7 +1,7 @@
 # INVASION!
 ## Analysis
 
-**Official site:** [Invasion!](https://www.baobabstudios.com/invasion)
+**Official site:** [INVASION!](https://www.baobabstudios.com/invasion)
 
 **Production**
 - Produced by: Baobab Studios.
