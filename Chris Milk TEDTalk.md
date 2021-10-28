@@ -1,4 +1,4 @@
-### Chris Milk: How virtual reality can create the ultimate empathy machine
+# Chris Milk: How virtual reality can create the ultimate empathy machine
 ## Analysis and personal response
 
 Link: [Chris Milk TEDTalk](https://www.ted.com/talks/chris_milk_how_virtual_reality_can_create_the_ultimate_empathy_machine?language=yi)
