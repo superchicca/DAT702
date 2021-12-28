@@ -72,13 +72,10 @@ never completely lost awareness of where I was, of what was real and what was vi
 >One of the things that helps 
 us to attain and sustain immersion in an illusion is our sense of a boundary between the real and 
 the liminal world, the “fourth wall” of the theater, the TV or movie screen, the entrance to the 
-haunted house. In interactive environments we often need a “threshold object” (Murray, 2018: 
-134) to take us over the boundary, something that has physical existence in this world but agency 
+haunted house. In interactive environments we often need a “threshold object” (Murray, 2018: 134) to take us over the boundary, something that has physical existence in this world but agency 
 in the imagined world. The VR headset and hand controllers function in this way (Jean Ho Chu, 
 2015). Putting on the apparatus signals us that we are entering an invented, human-authored 
-reality.
-(...)
-But we retain awareness 
+reality.(...)But we retain awareness 
 that our immersive cocoon exists as a subset of a much larger and more complex reality of lived 
 experience. It is in fact this double consciousness that makes VR so thrilling – our sense that the 
 virtual seems so real despite our knowledge that our feet are still planted in this world.
