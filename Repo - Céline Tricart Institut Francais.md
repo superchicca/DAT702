@@ -23,7 +23,9 @@ That is why, in my opinion, when Céline Tricart invited audiences at festivals 
 The connection between the Sun Ladies and the audience was not only virtual, but also physical.
 
 >During filming I sometimes felt a bit parasitic, with the feeling of stealing from these women their stories, as I was a filmmaker and not a journalist.
-As storytellers, we have a responsibility towards people we are talking about. Usually, this is more true for journalist and documentarist. That is why Céline Tricart felt as she had
+As storytellers, we have a responsibility towards people we are talking about. Usually, this is more true for journalist and documentarist.
+
+That is why Céline Tricart felt as she had
 no right to tell the Sun Ladies stories.
 With The Key, created thanks to the Oculus VR for Good programme, Céline Tricart offered a different perspective on the issue of refugees: she offered, again, a sense of responsibility
 of the audiens towards refugees.
